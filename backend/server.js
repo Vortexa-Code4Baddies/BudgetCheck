@@ -1,15 +1,28 @@
-const express = require("express");
-const mongoose = require("mongoose");
+const dns = require("node:dns");
+
+dns.setServers(["8.8.8.8", "8.8.4.4"]);
+
+const app = require("./app");
 const connectDB = require("./config/database");
 const config = require("./config/config");
 
-const app = express();
+const PORT = config.PORT || 5000;
 
-connectDB();
+async function startServer() {
+  await connectDB();
 
+  app.listen(PORT, () => {
+    console.log(` Fiscora Audit Intelligence Backend Server`);
+    console.log(` Status: Running on http://localhost:${PORT}`);
+    console.log(` Environment: ${config.NODE_ENV}`);
+    console.log(` Target DB: ${config.MONGO_URI.split("@")[1] || config.MONGO_URI}`);
+    console.log(`===============================================`);
+  });
+}
 
-app.use(express.json());
+startServer();
 
-app.listen(config.PORT, () => {
-    console.log(`Server is running on port ${config.PORT}`);
-})
+// Handle unhandled promise rejections
+process.on("unhandledRejection", (err) => {
+  console.error("Unhandled Rejection:", err.message);
+});
