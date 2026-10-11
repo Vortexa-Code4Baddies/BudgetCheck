@@ -1,0 +1,41 @@
+Transaction_ID,Date,Department,Category,Description,Vendor,Amount,Payment_Reference,Status
+TXN-2026-001,2026-01-05,Public Works & Infrastructure,Road Resurfacing & Drainage,Asphalt resurfacing work Sector 4B,Apex Infra Corp,1250000.00,RTGS-SBIN-7718210,Completed
+TXN-2026-002,2026-01-07,School Education & Literacy,Classroom Furniture & Supplies,Supply of 250 student desks and chairs,Vidya Furnishers Ltd,480000.00,NEFT-HDFC-9920145,Completed
+TXN-2026-003,2026-01-10,Public Health & Family Welfare,Medical Equipment Procurement,Digital X-Ray machine maintenance & parts,Apex Meditech Solutions,820000.00,RTGS-PUNB-4410293,Completed
+TXN-2026-004,2026-01-12,Municipal Administration & Urban Development,Streetlighting & Solar Installations,LED street light fixture batch replacement,Lumina Power Systems,310000.00,RTGS-ICIC-1102948,Completed
+TXN-2026-005,2026-01-15,Information Technology & e-Governance,Cloud Hosting & IT Infrastructure,State portal disaster recovery server hosting,CyberNet Datacenters,650000.00,NEFT-AXIS-8819203,Completed
+TXN-2026-006,2026-01-18,Water Resources & Sanitation,Pipeline Laying & Maintenance,HDPE pipeline junction repairs Zone 3,Jal Seva Utilities,740000.00,RTGS-SBIN-3329104,Completed
+TXN-2026-007,2026-01-20,Public Works & Infrastructure,Road Resurfacing & Drainage,Drainage desilting and storm pipe laying,Apex Infra Corp,890000.00,RTGS-SBIN-7719204,Completed
+TXN-2026-008,2026-01-22,School Education & Literacy,Classroom Furniture & Supplies,Library reference books and smart racks,Vidya Furnishers Ltd,320000.00,NEFT-HDFC-9930219,Completed
+TXN-2026-009,2026-01-25,Information Technology & e-Governance,Office Stationery & Printing,Bulk executive diary printing and luxury stationery,Prestige Prints & Co,7500000.00,RTGS-CANB-5520194,Completed
+TXN-2026-010,2026-01-28,Public Health & Family Welfare,Medical Equipment Procurement,Consumable surgical gloves and masks lot 4,Sanjeevani Healthcare Supplies,260000.00,NEFT-SBIN-6629103,Completed
+TXN-2026-011,2026-02-02,Municipal Administration & Urban Development,Waste Management & Sanitation,Solid waste segregation compactor fuel,GreenCity Waste Solutions,410000.00,RTGS-PUNB-8839201,Completed
+TXN-2026-012,2026-02-05,Public Works & Infrastructure,Road Resurfacing & Drainage,Concrete divider reinforcement,Apex Infra Corp,530000.00,RTGS-SBIN-9940129,Completed
+TXN-2026-013,2026-02-10,Water Resources & Sanitation,Pipeline Laying & Maintenance,Borewell submersible pump replacement,Jal Seva Utilities,380000.00,RTGS-SBIN-2210495,Completed
+TXN-2026-014,2026-02-14,Public Health & Family Welfare,Medical Equipment Procurement,Dialysis unit membrane cartridges emergency supply,Apex Meditech Solutions,450000.00,RTGS-SBIN-8831920,Completed
+TXN-2026-015,2026-02-14,Public Health & Family Welfare,Medical Equipment Procurement,Dialysis unit membrane cartridges emergency supply,Apex Meditech Solutions,450000.00,RTGS-SBIN-8831920,Completed
+TXN-2026-016,2026-02-15,Information Technology & e-Governance,Cloud Hosting & IT Infrastructure,Cybersecurity perimeter firewall annual renewal,CyberNet Datacenters,920000.00,RTGS-AXIS-3392014,Completed
+TXN-2026-017,2026-02-16,School Education & Literacy,Classroom Furniture & Supplies,Science laboratory workbenches,Vidya Furnishers Ltd,590000.00,NEFT-HDFC-1192840,Completed
+TXN-2026-018,2026-02-17,Municipal Administration & Urban Development,Streetlighting & Solar Installations,Solar high-mast tower lighting at crossroads,Lumina Power Systems,880000.00,RTGS-ICIC-4492018,Completed
+TXN-2026-019,2026-02-18,Public Works & Infrastructure,Road Resurfacing & Drainage,Bitumen overlay on arterial ring road,Shree Ram Roadways & Construction,850000.00,RTGS-PUNB-7729104,Completed
+TXN-2026-020,2026-02-20,Public Works & Infrastructure,Road Resurfacing & Drainage,Bitumen overlay on arterial ring road phase 2,Shree Ram Roadways & Construction,850000.00,RTGS-PUNB-7729105,Completed
+TXN-2026-021,2026-02-22,Public Health & Family Welfare,Medical Equipment Procurement,ICU multipara monitor calibration,Sanjeevani Healthcare Supplies,175000.00,NEFT-SBIN-4492018,Completed
+TXN-2026-022,2026-02-25,Water Resources & Sanitation,Pipeline Laying & Maintenance,Chlorination plant dosing valve overhaul,Jal Seva Utilities,295000.00,RTGS-SBIN-9910283,Completed
+TXN-2026-023,2026-02-27,Municipal Administration & Urban Development,Waste Management & Sanitation,Bio-degradable waste shredder maintenance,GreenCity Waste Solutions,340000.00,RTGS-PUNB-1192049,Completed
+TXN-2026-024,2026-03-01,Information Technology & e-Governance,Office Stationery & Printing,Monthly official ledger register sheets,Prestige Prints & Co,42000.00,NEFT-CANB-2201948,Completed
+TXN-2026-025,2026-03-03,Public Works & Infrastructure,Fleet Maintenance & Fuel,Monthly diesel supply for excavation equipment,National Petroleum Logistics,9200000.00,RTGS-SBIN-5501924,Completed
+TXN-2026-026,2026-03-05,School Education & Literacy,Classroom Furniture & Supplies,Sports gym mats and physical education kit,Vidya Furnishers Ltd,210000.00,NEFT-HDFC-8820149,Completed
+TXN-2026-027,2026-03-08,Public Health & Family Welfare,Medical Equipment Procurement,Ultrasound probe replacement,Apex Meditech Solutions,670000.00,RTGS-PUNB-3301928,Completed
+TXN-2026-028,2026-03-10,Water Resources & Sanitation,Pipeline Laying & Maintenance,Sewer manhole structural lining Phase 1,Jal Seva Utilities,510000.00,RTGS-SBIN-7719284,Completed
+TXN-2026-029,2026-03-12,Municipal Administration & Urban Development,Streetlighting & Solar Installations,Timer switches and underground cabling,Lumina Power Systems,275000.00,RTGS-ICIC-6610294,Completed
+TXN-2026-030,2026-03-15,Information Technology & e-Governance,Cloud Hosting & IT Infrastructure,Citizen grievance ticketing system module maintenance,CyberNet Datacenters,460000.00,NEFT-AXIS-9920147,Completed
+TXN-2026-031,2026-03-18,Public Works & Infrastructure,Road Resurfacing & Drainage,Culvert bridge reconstruction km 14,Apex Infra Corp,1850000.00,RTGS-SBIN-4420195,Completed
+TXN-2026-032,2026-03-20,Public Health & Family Welfare,Medical Equipment Procurement,Oxygen pipeline pressure regulator manifold,Sanjeevani Healthcare Supplies,390000.00,,Completed
+TXN-2026-033,2026-03-22,,Classroom Furniture & Supplies,Primary school chalkboards and notice boards,Vidya Furnishers Ltd,180000.00,NEFT-HDFC-3392014,Completed
+TXN-2026-034,2026-03-24,Water Resources & Sanitation,,Water quality testing reagents batch 12,Jal Seva Utilities,145000.00,RTGS-SBIN-8820194,Completed
+TXN-2026-035,2026-03-25,Public Works & Infrastructure,Road Resurfacing & Drainage,Speed breaker thermos-plastic paint marking,Apex Infra Corp,-25000.00,RTGS-SBIN-1192847,Reversal
+TXN-2026-036,INVALID_DATE_2026,School Education & Literacy,Classroom Furniture & Supplies,Elementary audio-visual projector stands,Vidya Furnishers Ltd,95000.00,NEFT-HDFC-7719204,Completed
+TXN-2026-037,2026-03-28,Municipal Administration & Urban Development,Streetlighting & Solar Installations,Substation transformer inspection,Lumina Power Systems,NOT_NUMERIC_AMT,RTGS-ICIC-8829103,Completed
+,2026-03-29,Information Technology & e-Governance,Cloud Hosting & IT Infrastructure,SSL wildcard certificate 3-year extension,CyberNet Datacenters,125000.00,NEFT-AXIS-4492018,Completed
+TXN-2026-039,2026-03-30,Public Health & Family Welfare,Medical Equipment Procurement,Emergency defibrillator battery packs,Sanjeevani Healthcare Supplies,315000.00,NEFT-SBIN-1192840,Completed
+TXN-2026-040,2026-03-31,Water Resources & Sanitation,Pipeline Laying & Maintenance,Overhead water tank descaling & lining,Jal Seva Utilities,620000.00,RTGS-SBIN-6629184,Completed
